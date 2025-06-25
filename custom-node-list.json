@@ -28553,6 +28553,16 @@
             "description": "Various image processing nodes."
         },
         {
+            "author": "kpsss34",
+            "title": "ComfyUI-kpsss34-Sana",
+            "reference": "https://github.com/kpsss34/ComfyUI-kpsss34-Sana",
+            "files": [
+                "https://github.com/kpsss34/ComfyUI-kpsss34-Sana"
+            ],
+            "install_type": "git-clone",
+            "description": "Diffusers Sana integration for ComfyUI - High quality text-to-image generation"
+        },
+        {
             "author": "aimingfail",
             "title": "Image2Halftone Node for ComfyUI",
             "id": "img2halftone",
